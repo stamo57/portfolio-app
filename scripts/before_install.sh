@@ -7,8 +7,8 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install nodejs -y
 sudo npm install
 sudo npm install -g forever
-sudo npm i dotenv
-sudo npm audit fix --force
+# sudo npm i dotenv
+# sudo npm audit fix --force
 
 
 
