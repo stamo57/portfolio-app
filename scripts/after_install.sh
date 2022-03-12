@@ -4,6 +4,6 @@
 # if [ -d "/home/ubuntu/nodejs" ]; then rm -Rf /home/ubuntu/nodejs; fi
 # mkdir /home/ubuntu/nodejs
 
-cd /home/ubuntu/nodejs/portfolio-app
+cd /home/ubuntu/portfolio-app
 
 sudo npm install
