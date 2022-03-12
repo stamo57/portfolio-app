@@ -1,6 +1,6 @@
 #!/bin/bash
 #delete existing nodejs file if exist
-rm -rf /home/ubuntu/nodejs
+if [ -d "/home/ubuntu/nodejs" ]; then rm -Rf /home/ubuntu/nodejs; fi
 mkdir /home/ubuntu/nodejs
 cd /home/ubuntu/nodejs
 
