@@ -9,7 +9,7 @@ sudo npm install
 sudo npm install -g forever
 sudo npm i dotenv
 sudo npm audit fix --force
-sudo apt install upstart -y
+
 
 
 
